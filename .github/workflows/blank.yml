@@ -34,3 +34,10 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+      # Runs script that is named "Theory of Driving"
+      - name: Theory of Driving
+        run: |
+          echo Theory,
+          echo of
+          echo Driving.
